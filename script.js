@@ -16,6 +16,9 @@ function cBox()
         alert("Please Select Atleast Two Food");
         
     }
+    else{
+        addData();
+    }
 }
 
 function addData()
