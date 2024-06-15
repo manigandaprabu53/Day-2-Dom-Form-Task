@@ -1,0 +1,27 @@
+input{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+table, th, td{
+    border: 1px solid skyblue;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 5px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+form > input{
+    color: black;
+}
